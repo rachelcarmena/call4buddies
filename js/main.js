@@ -19,7 +19,7 @@ function generateInvite() {
     document.getElementById("invite").innerHTML = content;
     document.getElementById('send-email').setAttribute('href', 'mailto:?subject=A proposal for you&body=' + content.replace(/\r?\n/g, '%0D%0A'));
     document.getElementById('invite-form').removeAttribute('hidden');
-    document.getElementById("copy-invite-button").focus();
+    document.getElementById("invite").focus();
 }
 
 function copyInviteToClipboard() {
