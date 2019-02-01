@@ -2,25 +2,6 @@
 Disclaimer: I didn't import jQuery for this small piece of code
 */
 
-var template;
-updateTemplate();
-
-function updateTemplate() {
-    var xmlhttp;
-    if (window.XMLHttpRequest) {
-        xmlhttp = new XMLHttpRequest();
-    } else {
-        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-    }
-    xmlhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            template = this.responseText;
-        }
-    };
-    xmlhttp.open("GET", "/template/invite.txt", true);
-    xmlhttp.send();
-}
-
 function updateInviteVisibility(caller) {
     if (caller.value == '') {
         document.getElementById('invite-form').setAttribute('hidden', '');
