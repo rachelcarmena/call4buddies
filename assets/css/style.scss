@@ -41,7 +41,7 @@
     font-weight: bold;
 }
 
-.button:hover {
+.button:hover, .button:focus {
     border: 1px solid var(--hover-color);
     background-color: var(--hover-color);
     transition: background-color 0.8s;
