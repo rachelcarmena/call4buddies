@@ -1,0 +1,4 @@
+_site
+
+# It's not necessary to lock gems versions.
+Gemfile.lock

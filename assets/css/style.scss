@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+    --base-color: #005566;
+    --hover-color: #15816f;
+}
+
+#main-form {
+    padding: 0 5% 0 5%;
+}
+
+#main-form label {
+    color: var(--base-color);
+    font-weight: bold;
+}
+
+#main-form div {
+    padding: 10px;
+}
+
+.text-input {
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--base-color);
+    border-left: 0;
+    width: 100%;
+}
+
+.button {
+    border: 1px solid var(--base-color);
+    padding: 10px;
+    background-color: var(--base-color);
+    color: white;
+    font-weight: bold;
+}
+
+.button:hover {
+    border: 1px solid var(--hover-color);
+    background-color: var(--hover-color);
+    transition: background-color 0.8s;
+}
+
+.button {
+    text-decoration: none !important; /* Disclaimer: I can do it, because the link has another style */
+}
