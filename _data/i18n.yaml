@@ -1,0 +1,22 @@
+en:
+    label:
+        name: I'm thinking about
+        reason: Why? Imagine that your mate is right here!
+    placeholder:
+        name: Name
+        reason: Because you ...
+    button:
+        generate-invite: Generate invite
+        copy-invite: Copy invite
+        send-email: Send email
+es:
+    label:
+        name: Estoy pensando en
+        reason: ¿Por qué? ¡Imagina que la persona está justo aquí!
+    placeholder:
+        name: Nombre
+        reason: Porque tú ...
+    button:
+        generate-invite: Crear invitación
+        copy-invite: Copiar invitación
+        send-email: Enviar correo

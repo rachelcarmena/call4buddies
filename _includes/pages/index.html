@@ -1,0 +1,20 @@
+<form id="main-form">
+    <div>
+        <div><label for="name">{{ site.data.i18n[page.lang].label.name }}</label></div>
+        <div><input class="text-input" type="text" id="name" placeholder="{{ site.data.i18n[page.lang].placeholder.name }}" onkeyup="updateInviteVisibility(this)"></div>
+    </div>
+    <div>
+        <div><label for="reason">{{ site.data.i18n[page.lang].label.reason }}</label></div>
+        <div><textarea class="text-input" id="reason" placeholder="{{ site.data.i18n[page.lang].placeholder.reason }}" rows="3" onkeyup="updateInviteVisibility(this)"></textarea>
+    </div>
+    <div>
+        <input class="button" type="button" onclick="generateInvite()" value="{{ site.data.i18n[page.lang].button.generate-invite }}">
+    </div>
+    <div id="invite-form" hidden>
+        <div><textarea class="text-input" id="invite" rows="15" readonly></textarea></div>
+        <div>
+            <input id="copy-invite-button" class="button" type="button" onclick="copyInviteToClipboard()" value="{{ site.data.i18n[page.lang].button.copy-invite }}">
+            <a href="" class="button" id="send-email">{{ site.data.i18n[page.lang].button.send-email }}</a>
+        </div>
+    </div>  
+</form>

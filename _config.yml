@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Call4Buddies
-description: Do you know someone who could participate in our event?
+description:
+    en: Do you know someone who could participate in our event?
+    es: ¿Conoces a alguien que podría participar en nuestro evento?
+plugins:
+  - jekyll-redirect-from

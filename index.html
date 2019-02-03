@@ -1,25 +1,4 @@
 ---
-layout: default
-title: Call4Buddies
+redirect_to:
+    - /en/
 ---
-
-<form id="main-form">
-    <div>
-        <div><label for="name">I'm thinking about</label></div>
-        <div><input class="text-input" type="text" id="name" placeholder="Name" onkeyup="updateInviteVisibility(this)"></div>
-    </div>
-    <div>
-        <div><label for="reason">Why? Imagine that your mate is right here!</label></div>
-        <div><textarea class="text-input" id="reason" placeholder="Because you ... " rows="3" onkeyup="updateInviteVisibility(this)"></textarea>
-    </div>
-    <div>
-        <input class="button" type="button" onclick="generateInvite()" value="Generate invite">
-    </div>
-    <div id="invite-form" hidden>
-        <div><textarea class="text-input" id="invite" rows="15" readonly></textarea></div>
-        <div>
-            <input id="copy-invite-button" class="button" type="button" onclick="copyInviteToClipboard()" value="Copy invite">
-            <a href="" class="button" id="send-email">Send email</a>
-        </div>
-    </div>  
-</form>
