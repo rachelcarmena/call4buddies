@@ -30,8 +30,12 @@ This is a very simple idea with these benefits:
 ## Steps for creating Call4Buddies form
 
 1. Fork this repository.
-2. Change [template/invite.txt](template/invite.txt), keeping `[name]` and `[reason]`.
-3. Adapt the style or whatever you want. This is for you!
+2. If you need a multi-language version:
+```
+git merge multi-language
+```
+3. Change [template/invite.txt](template/invite.txt), keeping `[name]` and `[reason]`.
+4. Adapt the style or whatever you want. This is for you!
 
 ## Further ideas
 
