@@ -7,7 +7,7 @@ en:
         reason: Because you ...
     button:
         generate-invite: Generate invite
-        copy-invite: Copy invite
+        copy-invite: Copy
         send-email: Send email
 es:
     label:
@@ -18,5 +18,5 @@ es:
         reason: Porque tú ...
     button:
         generate-invite: Crear invitación
-        copy-invite: Copiar invitación
-        send-email: Enviar correo
+        copy-invite: Copiar
+        send-email: Enviar email

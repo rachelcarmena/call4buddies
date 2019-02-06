@@ -1,6 +1,6 @@
 Hola [name],
 
-La 179º edición del Día de la Marmora tendrá lugar el próximo 2 de febrero. El año pasado ...
+La 179º edición del Día de la Marmota tendrá lugar el próximo 2 de febrero. El año pasado ...
 
 Están buscando charlas sobre estos temas: ...
 
@@ -8,7 +8,9 @@ Los ponentes no tienen que pagar, sino que reembolsan los datos de viaje y ¡com
 
 [name], creo que deberías presentar una propuesta para este evento. [reason]
 
-La organización del evento proporciona ayuda para preparar la charla, pero también estoy aquí para darte feedback. Es una gran oportunidad, ¡[name]! Preparing a talk provides awesome reflection moments and it's useful to learn more and more. Attendees will ask you questions which will provide you other perspectives. No pierdas esta oportunidad, ¡[name]!
+La organización del evento proporciona ayuda para preparar la charla, pero también estoy aquí para darte feedback. Es una gran oportunidad, ¡[name]! Preparar una charla proporciona momentos increíbles de reflexión y es útil para aprender mucho más. Los asistentes te harán preguntas que te proporcionarán otras perspectivas. Si no sabes responder a alguna pregunta, no pasa nada, puedes pedir ayuda al público. ¡Se trata de compartir! No pierdas esta oportunidad, ¡[name]!
+
+Además, el evento incluye un código de conducta, para asegurarse que todo transcurre sin incidentes y todo el mundo es bienvenido.
 
 Enlace de C4P: http://www.wikicfp.com/cfp/
 
