@@ -44,3 +44,4 @@ git merge multi-language
 * [How To Advocate For Accessible And Inclusive Tech Events](https://www.24a11y.com/2018/accessible-and-inclusive-tech-events/) by [Mikey Ilagan](https://twitter.com/mikeyil)
 * [#upfront](http://weareupfront.com) by [Lauren Currie](http://www.twitter.com/redjotter)
 * [How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/code-of-conduct-book/) by [Valerie Aurora](https://twitter.com/frameshiftllc) and [Mary Gardiner](https://mary.gardiner.id.au)
+* [Q&A and polling platform](https://www.sli.do)
