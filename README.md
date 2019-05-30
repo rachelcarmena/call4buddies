@@ -43,5 +43,6 @@ git merge multi-language
 * [The Pac-Man Rule at Conferences](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) by [Eric Holscher](https://twitter.com/ericholscher)
 * [How To Advocate For Accessible And Inclusive Tech Events](https://www.24a11y.com/2018/accessible-and-inclusive-tech-events/) by [Mikey Ilagan](https://twitter.com/mikeyil)
 * [#upfront](http://weareupfront.com) by [Lauren Currie](http://www.twitter.com/redjotter)
+* [Community Code of Conduct](https://communitycodeofconduct.com)
 * [How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/code-of-conduct-book/) by [Valerie Aurora](https://twitter.com/frameshiftllc) and [Mary Gardiner](https://mary.gardiner.id.au)
 * [Q&A and polling platform](https://www.sli.do)
